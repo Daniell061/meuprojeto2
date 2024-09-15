@@ -1,6 +1,6 @@
 {
-  "name": "projeto2",
-  "version": "1.2.3",
+  "name": "main",
+  "version": "1.2.8",
   "description": "Nome: Daniel Francisco Matrícula: 2324290089",
   "main": "index.js",
   "scripts": {
